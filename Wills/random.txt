@@ -1,0 +1,86 @@
+  <!-- end header section -->
+    <!-- slider section -->
+    <section class=" slider_section position-relative">
+      <div id="carouselExampleControls" class="carousel slide " data-ride="carousel" data-intervals="5000">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="img-box">
+              <img src="random/random_20.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="random/random_22.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="random/random_23.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="random/random_24.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="random/random_26.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="random/random_27.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="random/random_28.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="random/random_29.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="random/random_31.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="random/random_32.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="random/random_33.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="random/random_34.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="random/random_35.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="random/random_36.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+    </section>
+    <!-- end slider section -->
+  </div>
